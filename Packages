@@ -1,0 +1,146 @@
+Package: cmake
+Version: 3.18.4
+Architecture: ppc64el
+Maintainer: cmake+development@discourse.cmake.org
+Installed-Size: 60660
+Filename: ./cmake-3.18.4-Linux-ppc64el.deb
+Size: 16362052
+MD5sum: bd3440674fbd8552c713e0d7f5d3398a
+SHA1: c6e100e289d99242af9d8731768e2b567c10878d
+SHA256: cde65385c677fc607b287b04760e1edeb4195e9f3ed2b1f6b1cd2c6f92892daa
+Section: devel
+Priority: optional
+Description: CMake is a build tool
+ CMake - Cross Platform Makefile Generator
+ Copyright 2000-2020 Kitware, Inc. and Contributors
+ All rights reserved.
+ .
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ .
+ * Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+ .
+ * Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+ .
+ * Neither the name of Kitware, Inc. nor the names of Contributors
+   may be used to endorse or promote products derived from this
+   software without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+ HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ .
+ ------------------------------------------------------------------------------
+ .
+ The following individuals and institutions are among the Contributors:
+ .
+ * Aaron C. Meadows &lt;cmake@shadowguarddev.com&gt;
+ * Adriaan de Groot &lt;groot@kde.org&gt;
+ * Aleksey Avdeev &lt;solo@altlinux.ru&gt;
+ * Alexander Neundorf &lt;neundorf@kde.org&gt;
+ * Alexander Smorkalov &lt;alexander.smorkalov@itseez.com&gt;
+ * Alexey Sokolov &lt;sokolov@google.com&gt;
+ * Alex Merry &lt;alex.merry@kde.org&gt;
+ * Alex Turbov &lt;i.zaufi@gmail.com&gt;
+ * Andreas Pakulat &lt;apaku@gmx.de&gt;
+ * Andreas Schneider &lt;asn@cryptomilk.org&gt;
+ * André Rigland Brodtkorb &lt;Andre.Brodtkorb@ifi.uio.no&gt;
+ * Axel Huebl, Helmholtz-Zentrum Dresden - Rossendorf
+ * Benjamin Eikel
+ * Bjoern Ricks &lt;bjoern.ricks@gmail.com&gt;
+ * Brad Hards &lt;bradh@kde.org&gt;
+ * Christopher Harvey
+ * Christoph Grüninger &lt;foss@grueninger.de&gt;
+ * Clement Creusot &lt;creusot@cs.york.ac.uk&gt;
+ * Daniel Blezek &lt;blezek@gmail.com&gt;
+ * Daniel Pfeifer &lt;daniel@pfeifer-mail.de&gt;
+ * Enrico Scholz &lt;enrico.scholz@informatik.tu-chemnitz.de&gt;
+ * Eran Ifrah &lt;eran.ifrah@gmail.com&gt;
+ * Esben Mose Hansen, Ange Optimization ApS
+ * Geoffrey Viola &lt;geoffrey.viola@asirobots.com&gt;
+ * Google Inc
+ * Gregor Jasny
+ * Helio Chissini de Castro &lt;helio@kde.org&gt;
+ * Ilya Lavrenov &lt;ilya.lavrenov@itseez.com&gt;
+ * Insight Software Consortium &lt;insightsoftwareconsortium.org&gt;
+ * Jan Woetzel
+ * Julien Schueller
+ * Kelly Thompson &lt;kgt@lanl.gov&gt;
+ * Laurent Montel &lt;montel@kde.org&gt;
+ * Konstantin Podsvirov &lt;konstantin@podsvirov.pro&gt;
+ * Mario Bensi &lt;mbensi@ipsquad.net&gt;
+ * Martin Gräßlin &lt;mgraesslin@kde.org&gt;
+ * Mathieu Malaterre &lt;mathieu.malaterre@gmail.com&gt;
+ * Matthaeus G. Chajdas
+ * Matthias Kretz &lt;kretz@kde.org&gt;
+ * Matthias Maennich &lt;matthias@maennich.net&gt;
+ * Michael Hirsch, Ph.D. &lt;www.scivision.co&gt;
+ * Michael Stürmer
+ * Miguel A. Figueroa-Villanueva
+ * Mike Jackson
+ * Mike McQuaid &lt;mike@mikemcquaid.com&gt;
+ * Nicolas Bock &lt;nicolasbock@gmail.com&gt;
+ * Nicolas Despres &lt;nicolas.despres@gmail.com&gt;
+ * Nikita Krupen&apos;ko &lt;krnekit@gmail.com&gt;
+ * NVIDIA Corporation &lt;www.nvidia.com&gt;
+ * OpenGamma Ltd. &lt;opengamma.com&gt;
+ * Patrick Stotko &lt;stotko@cs.uni-bonn.de&gt;
+ * Per Øyvind Karlsen &lt;peroyvind@mandriva.org&gt;
+ * Peter Collingbourne &lt;peter@pcc.me.uk&gt;
+ * Petr Gotthard &lt;gotthard@honeywell.com&gt;
+ * Philip Lowman &lt;philip@yhbt.com&gt;
+ * Philippe Proulx &lt;pproulx@efficios.com&gt;
+ * Raffi Enficiaud, Max Planck Society
+ * Raumfeld &lt;raumfeld.com&gt;
+ * Roger Leigh &lt;rleigh@codelibre.net&gt;
+ * Rolf Eike Beer &lt;eike@sf-mail.de&gt;
+ * Roman Donchenko &lt;roman.donchenko@itseez.com&gt;
+ * Roman Kharitonov &lt;roman.kharitonov@itseez.com&gt;
+ * Ruslan Baratov
+ * Sebastian Holtermann &lt;sebholt@xwmw.org&gt;
+ * Stephen Kelly &lt;steveire@gmail.com&gt;
+ * Sylvain Joubert &lt;joubert.sy@gmail.com&gt;
+ * The Qt Company Ltd.
+ * Thomas Sondergaard &lt;ts@medical-insight.com&gt;
+ * Tobias Hunger &lt;tobias.hunger@qt.io&gt;
+ * Todd Gamblin &lt;tgamblin@llnl.gov&gt;
+ * Tristan Carel
+ * University of Dundee
+ * Vadim Zhukov
+ * Will Dicharry &lt;wdicharry@stellarscience.com&gt;
+ .
+ See version control history for details of individual contributions.
+ .
+ The above copyright and license notice applies to distributions of
+ CMake in source and binary form.  Third-party software packages supplied
+ with CMake under compatible licenses provide their own copyright notices
+ documented in corresponding subdirectories or source files.
+ .
+ ------------------------------------------------------------------------------
+ .
+ CMake was initially developed by Kitware with the following sponsorship:
+ .
+  * National Library of Medicine at the National Institutes of Health
+    as part of the Insight Segmentation and Registration Toolkit (ITK).
+ .
+  * US National Labs (Los Alamos, Livermore, Sandia) ASC Parallel
+    Visualization Initiative.
+ .
+  * National Alliance for Medical Image Computing (NAMIC) is funded by the
+    National Institutes of Health through the NIH Roadmap for Medical Research,
+    Grant U54 EB005149.
+ .
+  * Kitware, Inc.
+
