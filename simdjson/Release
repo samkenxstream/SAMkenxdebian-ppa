@@ -1,0 +1,17 @@
+Date: Sat, 07 Nov 2020 13:51:49 +0000
+MD5Sum:
+ 9a85869852df35317485d8703ace2566             6246 simdjson/Packages
+ eb75b75b74d36a9409e994487c7e6649             3033 simdjson/Packages.gz
+ ee13ac4dd6ff71e57bff2dd617e800be               38 simdjson/Release
+SHA1:
+ 274799c0fb1ebfb7e3c2c008cd9b2f7b99d6699a             6246 simdjson/Packages
+ 8848b46e95129e0a1db38dd41856ab174f5a0064             3033 simdjson/Packages.gz
+ fa5855cfa3a0402f8b9ab976af02cfae0f969dac               38 simdjson/Release
+SHA256:
+ ad9d1b9c891b7d2ce8993cddad21497b492fbad8c64af23e6424424de975ac1a             6246 simdjson/Packages
+ 3d1eb29b11f86b4228efdb48f0e994ebda2379f21d9c7a466695f4e4f04e27ef             3033 simdjson/Packages.gz
+ ef070380ac149257e3d9fee7abbc0a912ab1b7ada16a8f3f99688b9690b6a538               38 simdjson/Release
+SHA512:
+ b6b2ae5addbdaccc1bb57b38a5cb641d1deec06c5fcf0d6cb584dd621c010e9f56ecc2ffd71f0f0b2ff9c1cc78343fe465c4fd71364cfc08b76d1d7feb828d4e             6246 simdjson/Packages
+ 10fafe02e15b50a9372f1fa01f2cee702b97fc8b78a37e793cbae0b1c5701e60a6a27a1368f01e51d2da6f9953133d1e1072f0f5c67c1ca0627daafa5e96e7b0             3033 simdjson/Packages.gz
+ feb912511fabaabee3708f9c49804ee55b9786c0941f786f3b29fa9db8857a36907d982e36aebd00501c82664b0ef7526334b557907f45f6fae0f491ed5d8598               38 simdjson/Release
