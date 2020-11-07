@@ -4,13 +4,14 @@
 # https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html
 
 # Packages & Packages.gz
-dpkg-scanpackages --multiversion . > dists/simdjson/binary-ppc64el/Packages
-gzip -k -f dists/simdjson/binary-ppc64el/Packages
+dpkg-scanpackages --multiversion . > dists/simdjson/main/binary-ppc64el/Packages
+gzip -k -f dists/simdjson/main/binary-ppc64el/Packages
 
 # Release, Release.gpg & InRelease
 cat - > dists/simdjson/Release <<EOF
 Suite: simdjson
 Codename: simdjson
+Components: main
 Architectures: ppc64el
 EOF
 apt-ftparchive release . >> dists/simdjson/Release
