@@ -3,7 +3,7 @@ Version: 3.18.4
 Architecture: ppc64el
 Maintainer: cmake+development@discourse.cmake.org
 Installed-Size: 60660
-Filename: ./simdjson/cmake-3.18.4-Linux-ppc64el.deb
+Filename: ./deb/cmake-3.18.4_ppc64el.deb
 Size: 16362052
 MD5sum: bd3440674fbd8552c713e0d7f5d3398a
 SHA1: c6e100e289d99242af9d8731768e2b567c10878d
