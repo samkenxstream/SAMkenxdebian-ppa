@@ -9,8 +9,11 @@ gzip -k -f dists/simdjson/main/binary-ppc64el/Packages
 
 # Release, Release.gpg & InRelease
 cat - > dists/simdjson/Release <<EOF
+Origin: simdjson
+Label: simdjson
 Suite: simdjson
 Codename: simdjson
+Description: simdjson
 Components: main
 Architectures: ppc64el
 EOF

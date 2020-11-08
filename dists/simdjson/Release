@@ -1,25 +1,28 @@
+Origin: simdjson
+Label: simdjson
 Suite: simdjson
 Codename: simdjson
+Description: simdjson
 Components: main
 Architectures: ppc64el
-Date: Sat, 07 Nov 2020 16:17:27 +0000
+Date: Sun, 08 Nov 2020 00:46:54 +0000
 MD5Sum:
- e7c55818a172cb17e8b79a88d555d9b5              113 dists/simdjson/Release
+ 7ab5ad96ecb98fd4f158142595dbae25              168 dists/simdjson/Release
  82d442b8eb8718878151d12579ae70cf             6235 dists/simdjson/main/binary-ppc64el/Packages
- 92ac5c125fb473ee0a9e9490817fb19e             3026 dists/simdjson/main/binary-ppc64el/Packages.gz
- 7be4c32dbeef38da9c6185a104b51ebf               22 dists/simdjson/main/binary-ppc64el/Release
+ 95245bad647eb64a48151e9f42dee222             3026 dists/simdjson/main/binary-ppc64el/Packages.gz
+ 265c2f04a5d07dc8b2ba9fde6e90e2e9              128 dists/simdjson/main/binary-ppc64el/Release
 SHA1:
- 7c8f74612b85db897656d6a460caf5634ea72009              113 dists/simdjson/Release
+ 8dfdfc0bea046da7a5942a3ed6d3d1ac4bb5afb2              168 dists/simdjson/Release
  a659aaa928ab69d3d5e22b1a9cb87237af2fa548             6235 dists/simdjson/main/binary-ppc64el/Packages
- d6c9d40e9efbfdd970da9ef9385139808d2f36b3             3026 dists/simdjson/main/binary-ppc64el/Packages.gz
- df1faac1992de71365db003bfc6832e812c943ac               22 dists/simdjson/main/binary-ppc64el/Release
+ f8c5770b3699a6a65aede8fe979c2ef46e54f307             3026 dists/simdjson/main/binary-ppc64el/Packages.gz
+ 4f9d119314fe319bafd18ca00ba49c0de19c3ac2              128 dists/simdjson/main/binary-ppc64el/Release
 SHA256:
- 76cb7c2b13199c520e074b710f90992a6b630aee0cf0553a37a67f8d59ce3b25              113 dists/simdjson/Release
+ 688a275bdcbef35a40031406ee0a0d776cb7a6347faa0e008c741356ec191378              168 dists/simdjson/Release
  453d33db1d0eda9dce3719f5cc1afbf30f4ded61f13958a52524205f355e2ee4             6235 dists/simdjson/main/binary-ppc64el/Packages
- 662a9b0099529df3cefa48bbfd5ea154791ece794b30357c5ec7c1b83a532d16             3026 dists/simdjson/main/binary-ppc64el/Packages.gz
- c15d32adbfe0a6c8bc07b1bf7c47bc35611b2207bf4e15a3ae2c0b575d1a674f               22 dists/simdjson/main/binary-ppc64el/Release
+ d97e6e1afa551f67d6a4b4b038e4e2fe0f7ae59d58d740b0ab1587b4ad1901a2             3026 dists/simdjson/main/binary-ppc64el/Packages.gz
+ 95f33eafac148b5a2f7d8952bca4aa74dfc0462725226d80ebf5348cb1fffa63              128 dists/simdjson/main/binary-ppc64el/Release
 SHA512:
- 5d656bbd2ca5c78307d4c1b1d27c8121af3ed98007b748553bc33e1c3b0d10c59f7ba3c9a34c7d71a3412ca788cb5b8d55bf84e8fd91ba564d50fddffe5c868e              113 dists/simdjson/Release
+ 6d4d25555a17631644d60b4dd157266c7677453a01c651d83e855b4394781a3a55bf6fb04fedac538f59f2bd22b6e02c68b79a8e3d6270ba8bae3e57876069f9              168 dists/simdjson/Release
  71ce78ac87b29a093309a7b1b1bd4a3c3d7bff4b427b38857ca5c74394e8641a647fd84b7e8642007bb15ac4c0f493ac0b66ad4b47283ec5f9fb76dc5d5ceece             6235 dists/simdjson/main/binary-ppc64el/Packages
- ef78cd40c36f955a4cddbd26ec88e970f15f61e3127197ca8d8fe2cdd17fb946395e2562636ed72a39c16d51f507785c37cc473ca8875ed2bffc1009ca64c53f             3026 dists/simdjson/main/binary-ppc64el/Packages.gz
- ff857452ff6a245abe67375edf542fe516d35cf16d79e7cc03383e393e84caabdb1f204c5151e06110416ca2f77d4db75ec54ddfbe00dc82041b61837c02433d               22 dists/simdjson/main/binary-ppc64el/Release
+ 2c6e6fd4d8d0c5b8b3a373cd79d3eda8b6aca74a7b7b45521dd70c1644131c4f1849068778abff9d52678a7001a541936af349a6280b7133b674f17a165c633b             3026 dists/simdjson/main/binary-ppc64el/Packages.gz
+ 3ccf472ec15a994a93c2874941326d6975b4f10e11fbb8b6dad5a3f2b9178901fc494969ba88f4a88af192f87e9f9be6fdacaaed0fcdc16e43076e0c286e6b88              128 dists/simdjson/main/binary-ppc64el/Release
