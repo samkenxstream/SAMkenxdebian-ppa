@@ -2,12 +2,12 @@ Package: cmake
 Version: 3.18.4
 Architecture: ppc64el
 Maintainer: cmake+development@discourse.cmake.org
-Installed-Size: 60660
-Filename: ./deb/cmake-3.18.4_ppc64el.deb
-Size: 16362052
-MD5sum: bd3440674fbd8552c713e0d7f5d3398a
-SHA1: c6e100e289d99242af9d8731768e2b567c10878d
-SHA256: cde65385c677fc607b287b04760e1edeb4195e9f3ed2b1f6b1cd2c6f92892daa
+Installed-Size: 60820
+Filename: ./pool/main/c/cmake/cmake-3.18.4_ppc64el.deb
+Size: 23894032
+MD5sum: d1dd6df70c5eed4f2cdcf255b7fbd344
+SHA1: 00ed5e0980fd13c8898c27cafefcf73507c7f622
+SHA256: fe1c5d581dad03f25e93958a3e00834bcb0981cf213731fb54a9e4c18cca7c0e
 Section: devel
 Priority: optional
 Description: CMake is a build tool

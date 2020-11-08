@@ -1,7 +1,5 @@
 Origin: simdjson
 Label: simdjson
-Suite: simdjson
-Codename: simdjson
-Description: simdjson
-Component: main
+Archive: simdjson
 Architecture: ppc64el
+Component: main
